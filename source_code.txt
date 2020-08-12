@@ -1,0 +1,24 @@
+int a = 9 + 7 - 24 - 14;
+int a = 9 + 2;
+int z = 7 - 24;
+float b = a + 100;
+float c = a + b;
+a = b + c;
+
+print a;
+
+print 7 + 24;
+
+def hello(){
+    
+    print 100;
+    return 100;
+
+}
+
+def main(){
+    int f = a - 100;
+    int d = 150 - 10;
+    return f + d;
+}
+
